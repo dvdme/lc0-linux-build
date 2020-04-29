@@ -6,6 +6,8 @@ This build uses a docker container to run the build with clang 6 and the necessa
 
 It then generates, outside of the container, a tar.gz file with the build.
 
+There a branch for the corresponding version.
+
 ## How to run it
 
 * It is needed to install a backend. Please check the instructions on the [official repository](https://github.com/LeelaChessZero/lc0/blob/master/README.md).

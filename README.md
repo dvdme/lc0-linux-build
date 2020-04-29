@@ -2,7 +2,7 @@
 
 Linux build for Leela Chess Zero chess engine
 
-This build uses a docker container to run the build with clang 6 and the necessary dependencies. 
+This build uses a docker container to run the build with gcc 7 and the necessary dependencies. 
 
 It then generates, outside of the container, a tar.gz file with the build.
 

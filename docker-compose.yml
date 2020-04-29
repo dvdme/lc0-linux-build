@@ -2,6 +2,6 @@ version: '3'
 services:
   lc0-build:
     build: .
-    image: lc0-build:0.23
+    image: lc0-build:0.24
     volumes:
       - ./lc0:/lc0

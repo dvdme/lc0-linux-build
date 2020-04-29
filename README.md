@@ -1,6 +1,6 @@
 # Leela Chess Zero Linux build
 
-Linux build for Leela Chess Zero chess engine
+Linux build for Leela Chess Zero chess engine. *This is not an official build!*
 
 This build uses a docker container to run the build with clang 6 and the necessary dependencies. 
 

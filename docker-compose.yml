@@ -1,7 +1,10 @@
 version: '3'
 services:
   lc0-build:
-    build: .
+    build:
+      context: .
+      args:
+        - lc0_version=0.24
     image: lc0-build:0.24
     volumes:
-      - ./lc0:/lc0
+      - ./:/dist

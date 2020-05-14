@@ -20,7 +20,9 @@ Run `docker compose up --build`
 
 ## How to run it
 
-* It is needed to install a backend. Please check the instructions on the [official repository](https://github.com/LeelaChessZero/lc0/blob/master/README.md).
+* Download a set of binaries from the releases in this repository;
 
-* It is needed to download a network the same directory where the bianry is. Networks can be downloaded from the [official webpage](https://lczero.org/play/networks/bestnets/)
+* It is needed to install a backend. Please check the instructions on the [official repository](https://github.com/LeelaChessZero/lc0/blob/master/README.md);
+
+* It is needed to download a network the same directory where the bianry is. Networks can be downloaded from the [official webpage](https://lczero.org/play/networks/bestnets/);
 
